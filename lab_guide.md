@@ -81,4 +81,7 @@ SELECT * FROM user001.telco_data_curated FOR SYSTEM_VERSION AS OF snapshotid
 Finally for the model (dimension variable)
 cviz_rest('{"url":"https://modelservice.ml-2f3fd21b-2f8.spain-ho.z20f-vg26.cloudera.site/model","accessKey":"m8nx69lkokd92bq27pli2u1fzz7j5i4x","colnames":["monthlycharges","totalcharges","tenure","gender","dependents","onlinesecurity","multiplelines","internetservice","seniorcitizen","techsupport", "contract","streamingmovies", "deviceprotection", "paymentmethod","streamingtv","phoneservice", "paperlessbilling","partner", "onlinebackup"],"response_colname":"result"}')
 
+
+If trying to aggregate a string variable: avg(cast([monthlycharges] as double))
+
 ```
