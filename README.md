@@ -1,14 +1,11 @@
 # Cloudera Tech Day 1, End to End Data Lifecycle
 
-This document describes the process to setup the labs for Cloudera Tech Day 1, End to End Data Lifecycle
+Please connect to Lab Environment
 
-## Enviroment:
+## Enviroment Access:
 
-Setup a CDP PC environment, with following services:
+Enviroment URL:   
+https://login.cdpworkshops.cloudera.com/auth/realms/marketing-workshop1/protocol/saml/clients/cdp-sso
 
-- Data Hub, Streams Messaging Light Duty: it will be used to publish and consume the main data source for the use case
-- CDF: consume data from Kafka topic and stoore and Iceberg table
-- CDE: data preparation
-- CDW: data exploration and build reports
-- CML: traing a ML model to score customer churn
-
+Username:   user001 to user050
+Password:   G0yvxvdms5srhyKF
