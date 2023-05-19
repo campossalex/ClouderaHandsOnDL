@@ -80,8 +80,8 @@ values('Y', 'Yes'),
 ('N', 'No'),
 ('F', 'Female'),
 ('M', 'Male'),
-('0', 'Yes'), 
-('1', 'No');
+('1', 'Yes'), 
+('0', 'No');
 ```
 
 ### 3. For DataViz...
