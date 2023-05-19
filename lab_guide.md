@@ -65,15 +65,16 @@ STORED AS PARQUET
 
 ### Create master tables:
 
+```
 CREATE DATABASE master_data;
 
-CREATE TABLE master_data.contract (id STRING, description STRING) STORED AS PARQUET;
+CREATE TABLE master_data.contract (id STRING, description STRING) STORED BY 'org.apache.iceberg.mr.hive.HiveIcebergStorageHandler' STORED AS PARQUET;
 INSERT INTO master_data.contract
 values('1', 'Month-to-month'),
 ('2', 'One year'),
 ('3', 'Two year');
 
-CREATE TABLE master_data.misc (id STRING, description STRING) STORED AS PARQUET;
+CREATE TABLE master_data.misc (id STRING, description STRING) STORED BY 'org.apache.iceberg.mr.hive.HiveIcebergStorageHandler' STORED AS PARQUET;
 INSERT INTO master_data.misc 
 values('Y', 'Yes'),
 ('N', 'No'),
@@ -81,7 +82,7 @@ values('Y', 'Yes'),
 ('M', 'Male'),
 ('0', 'Yes'), 
 ('1', 'No');
-
+```
 
 ### 3. For DataViz...
 ```
