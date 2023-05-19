@@ -63,7 +63,24 @@ STORED BY
 STORED AS PARQUET
 ```
 
+### Create master tables:
 
+CREATE DATABASE master_data;
+
+CREATE TABLE master_data.contract (id STRING, description STRING) STORED AS PARQUET;
+INSERT INTO master_data.contract
+values('1', 'Month-to-month'),
+('2', 'One year'),
+('3', 'Two year');
+
+CREATE TABLE master_data.misc (id STRING, description STRING) STORED AS PARQUET;
+INSERT INTO master_data.misc 
+values('Y', 'Yes'),
+('N', 'No'),
+('F', 'Female'),
+('M', 'Male'),
+('0', 'Yes'), 
+('1', 'No');
 
 
 ### 3. For DataViz...
