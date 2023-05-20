@@ -1,16 +1,16 @@
 # Lab Guide Setup
 
-### 0. Permission in Renger
+### 0. Permission in Renger  
 
-Add the user group to following policies:
+Add the user group to following policies:  
 
-Hadoop SQL
-all - database, table, column
-all - storage-type, storage-url
+Hadoop SQL:  
+all - database, table, column  
+all - storage-type, storage-url  
 
-Kafka (cluster name)
-all - consumergroup
-all - topic
+Kafka (cluster name):  
+all - consumergroup  
+all - topic  
 
 ### 1. Create Iceberg table statement
 
