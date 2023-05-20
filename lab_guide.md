@@ -1,4 +1,16 @@
-# Lab Guide
+# Lab Guide Setup
+
+### 0. Permission in Renger
+
+Add the user group to following policies:
+
+Hadoop SQL
+all - database, table, column
+all - storage-type, storage-url
+
+Kafka (cluster name)
+all - consumergroup
+all - topic
 
 ### 1. Create Iceberg table statement
 
@@ -63,7 +75,7 @@ STORED BY
 STORED AS PARQUET
 ```
 
-### Create master tables:
+### 3. Create master tables:
 
 ```
 CREATE DATABASE master_data;
@@ -84,7 +96,7 @@ values('Y', 'Yes'),
 ('0', 'No');
 ```
 
-### 3. For DataViz...
+### 4. For DataViz...
 ```
 
 1.- Clone numeric variables, rename string and pass clones to measures
