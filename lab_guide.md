@@ -47,14 +47,14 @@ CREATE EXTERNAL TABLE ${user_database}.telco_data_curated(
 `deviceprotection` string,
 `streamingtv` string,
 `streamingmovies` string,
-`totalcharges` string,
+`totalcharges` float,
 `partner` string,
-`monthlycharges` string,
+`monthlycharges` float,
 `customerid` string,
 `dependents` string,
 `onlinebackup` string,
 `phoneservice` string,
-`tenure` string,
+`tenure` float,
 `paymentmethod` string)
 ROW FORMAT SERDE
 'org.apache.iceberg.mr.hive.HiveIcebergSerDe'
