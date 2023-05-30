@@ -115,6 +115,7 @@ cviz_rest('{"url":"https://modelservice.ml-2f3fd21b-2f8.spain-ho.z20f-vg26.cloud
 If trying to aggregate a string variable: avg(cast([monthlycharges] as double))
 
 ```
-Add the CML Workshop URL to Data Viz -> Site Setting -> Remote Data Settings:
+
+Add the CML Workshop URL to Data Viz -> Site Setting -> Remote Data Settings:  
 URL Format example: https://modelservice.ml-369083c3-99e.ssa-hol.yu1t-vbzg.cloudera.site/model
 
