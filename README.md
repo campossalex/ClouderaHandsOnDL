@@ -17,3 +17,8 @@ Some cool stuff we will do today:
 CDF lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/CDP-PC-CDF.pdf  
 CDE lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/CDP-PC-CDE.pdf  
 CDW lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/CDP-PC-CDW.pdf  
+
+## Configurations:  
+
+# ChurnScore Expression:  
+cviz_rest('{"url":"<url_del_workspace>","accessKey":"<access_key>","colnames":["monthlycharges","totalcharges","tenure","gender","dependents","onlinesecurity","multiplelines","internetservice","seniorcitizen","techsupport", "contract","streamingmovies", "deviceprotection", "paymentmethod","streamingtv","phoneservice", "paperlessbilling","partner", "onlinebackup"],"response_colname":"result"}')
