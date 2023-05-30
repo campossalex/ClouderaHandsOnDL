@@ -5,7 +5,7 @@
 Please connect to Lab Environment
 
 Enviroment URL:   
-https://login.cdpworkshops.cloudera.com/auth/realms/marketing-workshop1/protocol/saml/clients/cdp-sso  
+https://login.cdpworkshops.cloudera.com/auth/realms/marketing-workshop2/protocol/saml/clients/cdp-sso  
 
 Username:   user001 - user050  
 Password:   password
