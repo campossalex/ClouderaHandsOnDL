@@ -18,6 +18,9 @@ CDF lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf
 CDE lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/CDP-PC-CDE.pdf  
 CDW lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/CDP-PC-CDW.pdf  
 
+## CML github  
+https://github.com/campossalex/TelcoChurn
+
 ## Configurations:  
 
 ### ChurnScore Expression:  
