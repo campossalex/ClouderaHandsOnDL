@@ -20,5 +20,5 @@ CDW lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf
 
 ## Configurations:  
 
-# ChurnScore Expression:  
+### ChurnScore Expression:  
 cviz_rest('{"url":"<url_del_workspace>","accessKey":"<access_key>","colnames":["monthlycharges","totalcharges","tenure","gender","dependents","onlinesecurity","multiplelines","internetservice","seniorcitizen","techsupport", "contract","streamingmovies", "deviceprotection", "paymentmethod","streamingtv","phoneservice", "paperlessbilling","partner", "onlinebackup"],"response_colname":"result"}')
