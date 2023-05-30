@@ -14,6 +14,6 @@ Password:   password
 
 Some cool stuff we will do today:
 
-CDF lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/Data%20Lifecycle%20en%20CDP%20Public%20Cloud%20CDF%20-%20Guia%20en%20Espan%CC%83ol.pdf  
-CDE lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/Data%20Lifecycle%20en%20CDP%20Public%20Cloud%20CDE%20Airflow%20-%20Gui%CC%81a%20en%20Espan%CC%83ol.pdf  
-CDW lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/Data%20Lifecycle%20en%20CDP%20Public%20Cloud%20CDW%20-%20Gui%CC%81a%20en%20Espan%CC%83ol.pdf  
+CDF lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/CDP-PC-CDF.pdf  
+CDE lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/CDP-PC-CDE.pdf  
+CDW lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/CDP-PC-CDW.pdf  
