@@ -22,3 +22,10 @@ CDW lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf
 
 ### ChurnScore Expression:  
 cviz_rest('{"url":"<url_del_workspace>","accessKey":"<access_key>","colnames":["monthlycharges","totalcharges","tenure","gender","dependents","onlinesecurity","multiplelines","internetservice","seniorcitizen","techsupport", "contract","streamingmovies", "deviceprotection", "paymentmethod","streamingtv","phoneservice", "paperlessbilling","partner", "onlinebackup"],"response_colname":"result"}')
+
+## Iceberg Time Tavel
+``` 
+DESCRIBE HISTORY <user_id>.telco_data_curated
+SELECT * FROM user001.telco_data_curated FOR SYSTEM_VERSION AS OF snapshotid
+
+``` 
