@@ -7,11 +7,13 @@ Please connect to Lab Environment
 Enviroment URL:   
 https://login.cdpworkshops.cloudera.com/auth/realms/marketing-workshop1/protocol/saml/clients/cdp-sso  
 
-Username:   user  
+Username:   user001 - user050  
 Password:   password
 
 ## Lab Guide
 
-Some cool stuff we will use today:
+Some cool stuff we will do today:
 
-https://github.com/campossalex/ClouderaMadrid/blob/main/lab_guide.md
+CDF lab: 
+CDE lab: 
+CDW lab: 
