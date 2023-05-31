@@ -1,4 +1,4 @@
-# Cloudera Hands-on Experience Madrid, Data Lifecycle
+# Cloudera Hands-on Experience, Data Lifecycle
 
 ## Enviroment Access:
 
