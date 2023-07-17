@@ -38,8 +38,10 @@ df=df.withColumn("tenure",df.tenure.cast(DoubleType()))
 df=df.withColumn("monthlycharges",df["monthlycharges"]+df["monthlycharges"]*(2*rand()-1))
 df=df.withColumn("monthlycharges",df.monthlycharges)
 
-spark.sql("drop table if exists " + DATABASE + " modtable")
+spark.sql("drop table if exists " + DATABASE + "modtable")
 df.write.mode("overwrite").saveAsTable(DATABASE+"modtable")
 
 
 spark.sql("MERGE INTO spark_catalog."+ DATABASE + ".telco_data_curated t USING "+DATABASE+"modtable s ON t.customerid = s.customerid WHEN MATCHED THEN UPDATE SET monthlycharges = s.monthlycharges")
+
+spark.sql("drop table if exists " + DATABASE + "modtable")
