@@ -14,10 +14,12 @@ Access Password:   G0yvxvdms5srhyKF
 
 Some cool stuff we will do today:
 
-CDF lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/CDP-PC-CDF.pdf  
-CDE lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/CDP-PC-CDE.pdf  
-CDW lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/CDP-PC-CDW.pdf  
-CML lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/CDP-PC-CML.pdf  
+English manuals:
+
+CDF lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CDF.pdf  
+CDE lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CDE.pdf  
+CDW lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CDW.pdf  
+CML lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CML.pdf  
 
 ## CML github repo url  
 https://github.com/campossalex/TelcoChurn
