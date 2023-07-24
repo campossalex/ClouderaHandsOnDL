@@ -21,6 +21,13 @@ CDE lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf
 CDW lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CDW.pdf  
 CML lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CML.pdf  
 
+Spanish manuals:
+
+CDF lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/spanish/CDP-PC-CDF.pdf  
+CDE lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/spanish/CDP-PC-CDE.pdf  
+CDW lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/spanish/CDP-PC-CDW.pdf  
+CML lab: https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/spanish/CDP-PC-CML.pdf  
+
 ## CML github repo url  
 https://github.com/campossalex/TelcoChurn
 
