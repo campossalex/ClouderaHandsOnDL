@@ -1,6 +1,6 @@
 # Cloudera Hands-on Experience, Data Lifecycle
 
-## Enviroment Access:
+## Environment Access:
 
 Please connect to Lab Environment
 
