@@ -40,7 +40,7 @@ https://github.com/campossalex/TelcoChurn
 ## Configurations:  
 
 ### ChurnScore Expression:  
-cviz_rest('{"url":"","accessKey":"m4fjixn3hw3wicc0w02akq02m8ubxjrf","colnames":["monthlycharges","totalcharges","tenure","gender","dependents","onlinesecurity","multiplelines","internetservice","seniorcitizen","techsupport", "contract","streamingmovies", "deviceprotection", "paymentmethod","streamingtv","phoneservice", "paperlessbilling","partner", "onlinebackup"],"response_colname":"result"}')
+cviz_rest('{"url":"https://modelservice.ml-2bcb0d2f-17f.latam-to.yu1t-vbzg.cloudera.site/model","accessKey":"m4fjixn3hw3wicc0w02akq02m8ubxjrf","colnames":["monthlycharges","totalcharges","tenure","gender","dependents","onlinesecurity","multiplelines","internetservice","seniorcitizen","techsupport", "contract","streamingmovies", "deviceprotection", "paymentmethod","streamingtv","phoneservice", "paperlessbilling","partner", "onlinebackup"],"response_colname":"result"}')
 
 ## Iceberg Time Tavel
 List table snapshosts:  
