@@ -1390,7 +1390,7 @@
           "description": "",
           "sensitive": false,
           "provided": false,
-          "value": "User_ID"
+          "value": "user_ID"
         },
         {
           "name": "Kafka Topic",
@@ -1404,7 +1404,7 @@
           "description": "",
           "sensitive": false,
           "provided": false,
-          "value": "realtime-ingestion-corebroker0.ssa-hol.yu1t-vbzg.cloudera.site:9093,realtime-ingestion-corebroker1.ssa-hol.yu1t-vbzg.cloudera.site:9093,realtime-ingestion-corebroker2.ssa-hol.yu1t-vbzg.cloudera.site:9093"
+          "value": "mtn-streams-corebroker2.tuya-med.pn0u-qsh6.cloudera.site:9093, mtn-streams-corebroker1.tuya-med.pn0u-qsh6.cloudera.site:9093, mtn-streams-corebroker0.tuya-med.pn0u-qsh6.cloudera.site:9093"
         },
         {
           "name": "Kafka Consumer Group Id",
@@ -1418,7 +1418,7 @@
           "description": "",
           "sensitive": false,
           "provided": false,
-          "value": "User_ID"
+          "value": "user_ID"
         },
         {
           "name": "CDPEnvironment",
