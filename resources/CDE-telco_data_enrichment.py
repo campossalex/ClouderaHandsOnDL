@@ -7,7 +7,9 @@ from datetime import datetime
 import sys
 import configparser
 
-data_lake_name='s3a://csr1usbucket/'
+config = configparser.ConfigParser()
+config.read('/app/mount/parameters.conf')
+data_lake_name=config.get("general","data_lake_name") 
 
 ## send this argument in the job configuration
 username=sys.argv[1]
