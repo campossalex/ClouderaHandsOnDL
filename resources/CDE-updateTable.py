@@ -5,6 +5,7 @@ import configparser
 from pyspark.sql import SparkSession
 from pyspark.sql.types import *
 #import pandas as pd
+
 config = configparser.ConfigParser()
 config.read('/app/mount/parameters.conf')
 data_lake_name=config.get("general","data_lake_name")
