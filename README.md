@@ -13,13 +13,6 @@ Access Password:
 
 Some cool stuff we will do today:
 
-Portuguese manuals:
-
-<a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/portuguese/CDP-PC-CDF.pdf" target="_blank">CDF lab</a>  
-<a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/portuguese/CDP-PC-CDE.pdf" target="_blank">CDE lab</a>  
-<a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/portuguese/CDP-PC-CDW.pdf" target="_blank">CDW lab</a>  
-<a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/portuguese/CDP-PC-CML.pdf" target="_blank">CML lab</a>  
-
 English manuals:
 
 <a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CDF.pdf" target="_blank">CDF lab</a>  
@@ -28,6 +21,14 @@ English manuals:
 <a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CML.pdf" target="_blank">CML lab</a> 
 
 <!--
+
+Portuguese manuals:
+
+<a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/portuguese/CDP-PC-CDF.pdf" target="_blank">CDF lab</a>  
+<a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/portuguese/CDP-PC-CDE.pdf" target="_blank">CDE lab</a>  
+<a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/portuguese/CDP-PC-CDW.pdf" target="_blank">CDW lab</a>  
+<a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/portuguese/CDP-PC-CML.pdf" target="_blank">CML lab</a>  
+
 Spanish manuals:  
 
 <a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/spanish/CDP-PC-CDF.pdf" target="_blank">CDF lab</a>  
